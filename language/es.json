@@ -13,7 +13,7 @@
     },
     {
       "label":"Elementos de datos",
-      "entity":"option",
+      "entity":"Opción",
       "field":{
         "label":"Elemento de datos",
         "fields":[
@@ -33,7 +33,7 @@
       }
     },
     {
-      "label": "Texto leido por herramientas de lectura que definen la figura como un gráfico.",
+      "label": "Texto leído por herramientas de lectura que definen la figura como un gráfico.",
       "default": "Gráfico"
     }
   ]
